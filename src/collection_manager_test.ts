@@ -1,5 +1,5 @@
 import { assert, expect } from 'chai';
-import { CollectionManager, Ajax } from "django-client-framework-typescript";
+import { CollectionManager, Ajax } from "django-client-framework";
 import Axios from 'axios';
 import { Product } from './models/Product';
 import { Brand } from './models/Brand';
